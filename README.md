@@ -47,4 +47,4 @@ Open a fresh terminal after installation to see the reminder in action.
 - When adding new capabilities, update this README and any related documentation to keep the information current.
 
 ## License
-This project will be released under the Apache License, Version 2.0. Include the full license text in a `LICENSE` file before publishing.
+This project is distributed under the Apache License, Version 2.0. See the `LICENSE` file for the full text.
