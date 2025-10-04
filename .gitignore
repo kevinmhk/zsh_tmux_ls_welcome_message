@@ -1,0 +1,28 @@
+# Logs
+logs/
+*.log
+
+# Runtime files
+tmp/
+*.tmp
+
+# Environments
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Build artifacts
+build/
+dist/
+*.egg-info
+*.pyc
+__pycache__/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
