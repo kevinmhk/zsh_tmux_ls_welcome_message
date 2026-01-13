@@ -9,5 +9,5 @@ fi
 
 # Detect active tmux sessions without showing their details
 if tmux ls >/dev/null 2>&1; then
-  printf '\033[31m%s\033[0m\n\n' 'There is active tmux session(s) running, please run `tmux ls` to review.'
+  printf '\033[31m%s\033[0m\n\n' 'There is active tmux session(s) running, please run `tmux ls` to review. Run `tmux attach -t <session_name>` to resume.'
 fi
